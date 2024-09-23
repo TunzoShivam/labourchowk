@@ -5,14 +5,9 @@ The repository is for <strong>Hackowasp</strong> dated from 11-14
 Working link - https://chowklabours.herokuapp.com/
  ### Team member
   <ul>
-  <li>Shubham Kumar <strong>(Team leader)</strong></li>
+  <li>Shivam Rajput<strong>(Team leader)</strong></li>
      
-  <li>Ankit Jha</li>
-  
-  <li>Swastik Kumar</li>
-  
-  
-   <li>Ravi Ranjan Kumar</li>
+  <li>Kunal Verma</li
   
 
   
